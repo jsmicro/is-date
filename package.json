@@ -1,0 +1,27 @@
+{
+    "name": "jsmicro-is-date",
+    "version": "1.0.0",
+    "description": "Check does the given Javascript Object is a date.",
+    "main": "main.js",
+    "scripts": {
+        "test": "node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/jsmicro/is-date.git"
+    },
+    "keywords": [
+        "is-date",
+        "isdate",
+        "date"
+    ],
+    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jsmicro/is-date/issues"
+    },
+    "homepage": "https://github.com/jsmicro/is-date#readme",
+    "devDependencies": {
+        "jsmicro-test": "^1.0.1"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "jsmicro-is-date",
+    "description": "Check does the given Javascript Object is a date.",
+    "main": "index.js",
+    "authors": [
+        "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "is-date",
+        "isdate",
+        "date"
+    ],
+    "moduleType": [],
+    "homepage": "https://github.com/jsmicro/is-date",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "package.json",
+        "main.js",
+        "readme.md"
+    ]
+}
