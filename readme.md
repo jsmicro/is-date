@@ -30,11 +30,11 @@ bower install --save jsmicro-is-date
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-date
+npm install --save @jsmicro/is-date
 ```
 
 ```js
-const obj = require('jsmicro-is-date');
+const obj = require('@jsmicro/is-date');
 
 // Available in the global object.
 isDate(new Date()); // true
